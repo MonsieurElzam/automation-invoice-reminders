@@ -1,0 +1,6 @@
+numero,client,email,montant,echeance,statut
+F-2026-001,Atelier Sika,compta@sika.example,"150 000",2026-09-01,impayé
+F-2026-002,Boutique Ayélé,ayele@exemple.com,"75 000",2026-10-12,impayé
+F-2026-003,Cabinet Dosseh,dosseh@exemple.com,"320 000",2026-10-18,impayé
+F-2026-004,Garage Tchalla,tchalla@exemple.com,"48 500",2026-09-20,payé
+F-2026-005,Studio Kodjo,kodjo@exemple.com,"210 000",2026-10-25,impayé

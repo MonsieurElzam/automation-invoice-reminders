@@ -1,0 +1,28 @@
+{
+  "name": "automation-invoice-reminders",
+  "version": "1.0.0",
+  "description": "Relances de factures / Invoice reminders — script Node.js sans dépendance",
+  "type": "module",
+  "license": "MIT",
+  "author": "Elzam MAMAH <ceo@monsieurelzam.com> (https://monsieurelzam.com)",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "automation-invoice-reminders": "src/invoice-reminders.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonsieurElzam/automation-invoice-reminders.git"
+  },
+  "homepage": "https://monsieurelzam.com/scripts",
+  "keywords": [
+    "automation",
+    "cli",
+    "nodejs",
+    "invoice-reminders"
+  ]
+}
